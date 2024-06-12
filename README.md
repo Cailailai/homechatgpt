@@ -60,7 +60,7 @@
 
 27.   [dittin.com/](dittin.com/) - 谛听提示词
 
-28.     [chat.yokonsan.com/](chat.yokonsan.com/) - 必须要先关注公众号
+28.   [chat.yokonsan.com/](chat.yokonsan.com/) - 必须要先关注公众号
 
 29.   [chat-shared.zhile.io/](chat-shared.zhile.io/)
 
