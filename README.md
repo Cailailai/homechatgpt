@@ -1,4 +1,4 @@
-# 32个国内ChatGPT镜像中文网站汇总（2024/10/09）
+# 32个国内ChatGPT镜像中文网站汇总（2025/3/20）
 
 # Chat GPT国内中文镜像网站的优势
 
@@ -6,7 +6,7 @@
 
 # 国内中文镜像站整理
 
-1. ChatGPTAI网站[givemegpt.top](givemegpt.top)-国内直接使用，支持GPT4.0以及4o、文档分析、文生图，GPT3.5免费
+1. ChatGPTAI网站[songshugpt.com](https://songshugpt.com)-国内直接使用，支持GPT4.0以及4o、文档分析、文生图，GPT3.5免费
    
 2. GPTDOG:[gptdog.online](gptdog.online)国内直接使用，支持GPT4.0
    
